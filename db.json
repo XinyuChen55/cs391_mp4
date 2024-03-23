@@ -1,0 +1,66 @@
+{"lists":[
+    {
+        "id": 1,
+        "title": "Siamese"
+    },
+    {
+        "id": 2,
+        "title": "Ragdoll"
+    },
+    {
+        "id": 3,
+        "title": "British Longhair"
+    }
+],
+"items":[
+    {
+        "id": 1,
+        "listId": 1,
+        "name": "Oatmeal",
+        "sex": "male",
+        "weight": 5,
+        "birth": "05/05/2023",
+        "color": "seal point",
+        "spayedOrNeutered": "yes"
+    },
+    {
+        "id": 2,
+        "listId": 2,
+        "name": "Pudding",
+        "sex": "female",
+        "weight": 4,
+        "birth": "12/04/2022",
+        "color": "blue point",
+        "spayedOrNeutered": "yes"
+      },
+      {
+        "id": 3,
+        "listId": 3,
+        "name": "Muffin",
+        "sex": "male",
+        "weight": 6,
+        "birth": "08/09/2022",
+        "color": "grey",
+        "spayedOrNeutered": "yes"
+      },
+      {
+        "id": 4,
+        "listId": 1,
+        "name": "Bagel",
+        "sex": "female",
+        "weight": 5.5,
+        "birth": "03/03/2023",
+        "color": "chocolate point",
+        "spayedOrNeutered": "yes"
+      },
+      {
+        "id": 5,
+        "listId": 2,
+        "name": "Croissant",
+        "sex": "male",
+        "weight": 4.5,
+        "birth": "07/07/2023",
+        "color": "cream",
+        "spayedOrNeutered": "no"
+      }
+]}
